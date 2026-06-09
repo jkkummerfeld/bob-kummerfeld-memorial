@@ -21,19 +21,30 @@ Clarrie was in the Navy, spending stints away from home. He would return with al
 
 When they moved out to country NSW in 1958, the reading didn't stop. Clarrie drove 12 miles to the nearest town to buy books and Dad would consume them in an afternoon. It was there he discovered his love for computer science through a single page in a science encyclopedia - a diagram with binary numbers and a big box that could do arithmetic - it was a discovery that opened up a life-long passion for technology.
 
+<figure class="memorial-figure">
 <img src="{{ "/images/science-book.jpeg" | relative_url }}" alt="Bob holding the encyclopedia that inspired his interest in computers" class="memorial-photo">
+<figcaption>2024 - Bob with the page of the encyclopedia that inspired his interest in computers.</figcaption>
+</figure>
 
 Dad attended a one room school in Coopernook, where the local kids arrived with no shoes, riding bikes with no brakes - just tough feet skidding to a stop. He was placed in year 4 but was quickly moved to year 5 then year 6. He was an excellent student in every subject, except handwriting.
 
 They had moved because Betty and Clarrie decided to get into the hotel business, and took on the Coopernook Hotel. Living in the rooms upstairs, it was a big change from the neon lights of Kings Cross. Drovers would come through town, holding their sheep in a pen by the pub while they turned in for the night.
 
-Returning to Sydney in 1960, Dad attended the Woollahra OC class and his parents managed the Burdikin Hotel for a few years, then the Macquarie Hotel by the water in Woollomooloo. The Macquarie was busy, and it was rough. Open 10-10, filled with wharfies, sailors and locals - there were brawls, broken windows and attempted robberies. But there was also music. Ever the innovator, Clarrie turned the beer lounge into a piano bar and hosted live jazz music. Dad had fond memories of listening to many jazz greats including Graeme Bell - the father of Australian jazz.
+Returning to Sydney in 1960, Dad attended the Woollahra OC class and his parents managed the Burdekin Hotel for a few years, then the Macquarie Hotel by the water in Woollomooloo. The Macquarie was busy, and it was rough. Open 10-10, filled with wharfies, sailors and locals - there were brawls, broken windows and attempted robberies. But there was also music. Ever the innovator, Clarrie turned the beer lounge into a piano bar and hosted live jazz music. Dad had fond memories of listening to many jazz greats including Graeme Bell - the father of Australian jazz.
 
+<figure class="memorial-figure">
 <img src="{{ "/images/Burdekin.jpeg" | relative_url }}" alt="The Burdekin hotel" class="memorial-photo">
+<figcaption>c1960 - The Burdekin hotel, which Bob's parents ran when they returned to Sydney from Coopernook.</figcaption>
+</figure>
 
 It was here dad solidified a love for music. He took piano lessons and in high school his music teacher spotted his talent, suggesting he join the St James Church choir in the city. A paid gig, Dad sang there every Sunday for several years.
 
-He attended Cleveland St Boys High school - a diverse place with lots of recently arrived migrants. Dad learnt to swear in Greek. He found a group of like minded friends, interested in science and technology. On weekends they would go to the army surplus store and buy bits and pieces to experiment with. In year 10 he and a mate won 5 pounds in a science competition for the computer they built (his mum proudly showed me the newspaper clipping about it 5 decades on).
+He attended Cleveland St Boys High school - a diverse place with lots of recently arrived migrants. Dad learnt to swear in Greek. He found a group of like minded friends, interested in science and technology. On weekends they would go to the army surplus store and buy bits and pieces to experiment with. In year 10 he and a mate won 10 pounds in a science competition for the computer they built (his mum proudly showed me the newspaper clipping about it 5 decades on).
+
+<figure class="memorial-figure">
+<img src="{{ "/images/teenage-computer-adder.png" | relative_url }}" alt="The computer Bob built in high school" class="memorial-photo">
+<figcaption>1965 - The computer Bob built in high school, which could add two numbers, each with three digits..</figcaption>
+</figure>
 
 From the age of 12, dad was given a lot of freedom. He enjoyed going out on his own, exploring the city with his friends, taking his dog for long walks up around Mrs Macquarie's chair, and going to the cinema. He joined an underground production group called Ubu films. They made abstract movies that dad described as "very artistic".
 
@@ -42,6 +53,9 @@ Dad continued to dabble in film and lighting once he started uni, staying out to
 In 1972, Bob met Judy, deep in the bowels of the Physics Building at the University of Sydney, affectionately dubbed 'the yellow submarine' for its subterranean location and bad yellow paint job. When he met Judy, he said "everything changed for him".
 
 <img src="{{ "/images/bob-and-judy.jpeg" | relative_url }}" alt="Bob and Judy in the 70s" class="memorial-photo">
+<figure class="memorial-figure">
+<figcaption>1972 - Bob and Judy at Bob's graduation.</figcaption>
+</figure>
 
 They began to get to know each other as they were rostered on to a helpdesk together. They went out to lunch together a few times. Then for her birthday, Dad bought her an expensive perfume from David Jones - making his intentions known.
 
@@ -63,23 +77,26 @@ Dad, in every small and steady choice, you gave us everything we needed. Your me
 
 ## Career - Jonathan
 
-"Check this out!" WIth those three words, dad would show us a cool new piece of technology he had gotten his hands on. Everything from digital cameras in the 90s to livestream video editing tools in the last few years.
+"Check this out!" With those three words, dad would show us a cool new piece of technology he had gotten his hands on. Everything from digital cameras in the 90s to livestream video editing tools in the last few years.
 
 Rebecca has already mentioned where that excitement about tech began. I'm going to share the way it shaped his career.
 
 When dad started at university there was no School of Computer Science, not even a course in computer science. In his second year they introduced one, but he wasn't allowed to take it because he was repeating first year, making up for the experimental-film induced subject failure Rebecca mentioned. He went along to the new CS course anyway and when he topped the class the university let him have it on his transcript. He took every computing class they offered after that.
 
-Outside of class he was experimenting with computers. In 3rd and 4th year he developed BIFoCal, the Basser Interpretive Formula Calculator, which allowed people across campus to sit at their desk and write programs that ran on a KDF-9 computer over in the physics building. Remember, this is before the internet, when a small computer was the size of a fridge. This project was the start of his interest in creating computer networks, but his honours supervisor told him to stop wasting time and focus on his thesis. He was one of two students who received first class honours that year, after several years where no one did. Both before and after honours he received job offers, to work on spy satellites at Pine Gap, and at a research institute in Adelaide, but he stayed at Sydney for a PhD on parallel parsing, supervised by Ross Quinlan, a leader in AI and compilers.
+Outside of class he was experimenting with computers. In 3rd and 4th year he developed BIFoCal, the Basser Interpretive Formula Calculator, which allowed people across campus to sit at their desk and write programs that ran on a KDF-9 computer over in the physics building. Remember, this is before the internet, when a computers were the size of a room. This project was the start of his interest in creating computer networks, but his honours supervisor told him to stop wasting time and focus on his thesis. He was one of two students who received first class honours that year, after several years where no one did. Both before and after honours he received job offers, to work on spy satellites at Pine Gap, and at a research institute in Adelaide, but he stayed at Sydney for a PhD on parallel parsing, supervised by Ross Quinlan, a leader in AI and compilers.
 
 His first job at the university was as a research assistant working on various projects. Including one about communication, repurposing a satellite that was no longer in use to communicate with a research group in Japan.
 
-He became a lecturer in 1978 and began working with Piers Lauder to develop ways for computers to communicate without being directly connected. This became the basis of ACSNet, a network that connected universities across Australia. They commercialised it as Message Handling Systems, which built networks for a range of clients, including providing DFAT's world wide messaging service.
+He became a lecturer in 1978 and began working with Piers Lauder to develop technology to connect computers over unreliable telephone links and noisy radio connections. This allowed them to connect universities across Australia with each other and over to the US based ARPANet. They commercialised the technology as Message Handling Systems, which built networks for a range of clients, including providing secure messaging services for DFAT's worldwide offices.
 
 In 1989, dad worked with NASA and Melbourne University to connect Australia to the internet. They used a connection from Hawaii that went through Sydney and down to Melbourne. At the same time, he started one of the first three Internet Service Providers in Australia and became engaged in the committees setting standards for the internet. If you've ever attached a file to an email or inserted an image, you've used the standard that dad contributed to.
 
+<figure class="memorial-figure">
 <img src="{{ "/images/mhs-article.jpeg" | relative_url }}" alt="Article on commercialisation of MHSNet" class="memorial-photo">
 
 <img src="{{ "/images/mhs-article2.jpeg" | relative_url }}" alt="Another article on commercialisation of MHSNet" class="memorial-photo">
+<figcaption>1989 - Articles on the effort to cxpand MHS internationally.</figcaption>
+</figure>
 
 In the late 90s, his interest shifted to networks for devices, what we now call the Internet of Things, and he began collaborating with mum on user modeling, particularly focusing on the back-end protocols. He was the driving force behind a grant that ran for 14 years, the Cooperative Research Centre on Smart Internet Technology, which supported many PhD students, and paid for a new lab, with mum and dad's offices at either end of an open plan area for their students. They developed a range of novel ways for computer systems to be a part of our environment, with new touch interfaces and interactive displays, technologies we all take for granted today.
 
@@ -95,7 +112,7 @@ Of course, research isn't the only part of an academic's job. There is also teac
 
 I got to experience dad's teaching directly, when I took the class on C programming that he taught with mum. That was good for news for mum and dad since it meant they wouldn't do any marking! I enjoyed the class. Mum and dad might not have thought that because I fell asleep in their lectures, but in my defence, one of the lectures was after lunch.
 
-Mum and dad collaborated on other classes too, including making what we would now call a flipped classroom. After retiring, dad continued to teach and steadily improved his video production skills. His materials for the operating systems course continue to be used today. He also explored his love of cooking after retiring, creating elaborate shabbat dinners, with intricate cakes, often combining elements of multiple recipes.
+Mum and dad collaborated on other classes too, including making in 2000 what we would now call a flipped classroom. After retiring, dad continued to teach and steadily improved his video production skills. His materials for the operating systems course continue to be used today. He also explored his love of cooking after retiring, creating elaborate shabbat dinners, with intricate cakes, often combining elements of multiple recipes.
 
 46 years after creating that first introduction to computing course, the last course he worked on was also introduction to computing, this time creating videos and exercises for a flipped classroom. He kept working on it after his diagnosis. That choice tells me two things. First, he cared deeply about teaching the next generation. Second, before his diagnosis he loved the life he was leading, because when faced with only having a small amount of time left, he continued doing what he had done before. Thousands of students watch those videos every year, and will into the future.
 
@@ -127,7 +144,7 @@ Dad also had a passion for exercise and physical wellness. He was dedicated to f
 
 <figure class="memorial-figure">
 <img src="{{ "/images/rowing1.jpeg" | relative_url }}" alt="Black and white photo of Bob rowing in High School" class="memorial-photo">
-<figcaption>c1967 - Bob (2nd from right) rowing in the Cleveland Street Boys High school four</figcaption>
+<figcaption>c1967 - Bob (2nd from right) rowing in the Cleveland Street Boys High school four.</figcaption>
 </figure>
 
 <figure class="memorial-figure">
@@ -137,7 +154,7 @@ Dad also had a passion for exercise and physical wellness. He was dedicated to f
 
 <figure class="memorial-figure">
 <img src="{{ "/images/rowing3.jpeg" | relative_url }}" alt="Photo of bob rowing in 2025" class="memorial-photo">
-<figcaption>2025 - Bob rowing with Peter Hupfauf in a Balmain rowing club double during treatment for a brain tumour, wearing a life jacket because he was at risk of seizures.</figcaption>
+<figcaption>2025 - Bob rowing with Peter Hupfauf in a Balmain rowing club double during treatment for his brain tumour, wearing a life jacket because he was at risk of seizures.</figcaption>
 </figure>
 
 Dad approached his cancer diagnosis like the rest of his life: with pragmatism. He had long hoped to do what he described as 'squaring the curve', staying fit and healthy right to the end of his life. He announced that his job through this cancer journey was to stay calm, because stress would not help anyone. And he did this to the end.
