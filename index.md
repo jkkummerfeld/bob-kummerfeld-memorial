@@ -137,7 +137,7 @@ Dad also had a passion for exercise and physical wellness. He was dedicated to f
 
 <figure class="memorial-figure">
 <img src="{{ "/images/rowing3.jpeg" | relative_url }}" alt="Photo of bob rowing in 2025" class="memorial-photo">
-<figcaption>2025 - Bob rowing with Peter Huppfath in a Balmain rowing club double during treatment for a brain tumour, wearing a life jacket because he was at risk of seizures.</figcaption>
+<figcaption>2025 - Bob rowing with Peter Hupfauf in a Balmain rowing club double during treatment for a brain tumour, wearing a life jacket because he was at risk of seizures.</figcaption>
 </figure>
 
 Dad approached his cancer diagnosis like the rest of his life: with pragmatism. He had long hoped to do what he described as 'squaring the curve', staying fit and healthy right to the end of his life. He announced that his job through this cancer journey was to stay calm, because stress would not help anyone. And he did this to the end.
