@@ -7,10 +7,24 @@ permalink: /photos/
 <div class="photo-grid">
 
   <figure class="photo-item">
+    <a class="photo-link" href="{{ "/images/1950s-Betty-Clarry-Bob.jpeg" | relative_url }}" data-caption="1950s - Bob with his parents.">
+      <img src="{{ "/images/1950s-Betty-Clarry-Bob.jpeg" | relative_url }}" alt="1950s - Bob with his parents.">
+    </a>
+    <figcaption>1950s - Bob with his parents.</figcaption>
+  </figure>
+
+  <figure class="photo-item">
     <a class="photo-link" href="{{ "/images/Burdekin.jpeg" | relative_url }}" data-caption="c1960 - The Burdekin hotel, which Bob's parents ran when they returned to Sydney from Coopernook.">
       <img src="{{ "/images/Burdekin.jpeg" | relative_url }}" alt="c1960 - The Burdekin hotel, which Bob's parents ran when they returned to Sydney from Coopernook.">
     </a>
     <figcaption>c1960 - The Burdekin hotel, which Bob's parents ran when they returned to Sydney from Coopernook.</figcaption>
+  </figure>
+
+  <figure class="photo-item">
+    <a class="photo-link" href="{{ "/images/1960s-Bob.jpeg" | relative_url }}" data-caption="1960s - Bob in high school.">
+      <img src="{{ "/images/1960s-Bob.jpeg" | relative_url }}" alt="1960s - Bob in high school.">
+    </a>
+    <figcaption>1960s - Bob in high school.</figcaption>
   </figure>
 
   <figure class="photo-item">
