@@ -3,6 +3,10 @@ layout: default
 title: Remembering Bob Kummerfeld
 ---
 
+<figure class="memorial-figure">
+<img src="{{ "/images/2017-bob.jpg" | relative_url }}" alt="2017 photo of Bob" class="memorial-photo">
+</figure>
+
 ## Early Life - Rebecca
 
 I was 12, Jonathan 9, sitting in the back of our Toyota Tarago when Dad leaned round from the driver's seat, looked us each in the eye and said "don't move." We froze, as he slapped on his akubra, got out, slammed the door and locked the car.
@@ -92,10 +96,8 @@ He became a lecturer in 1978 and began working with Piers Lauder to develop tech
 In 1989, dad worked with NASA and Melbourne University to connect Australia to the internet. They used a connection from Hawaii that went through Sydney and down to Melbourne. At the same time, he started one of the first three Internet Service Providers in Australia and became engaged in the committees setting standards for the internet. If you've ever attached a file to an email or inserted an image, you've used the standard that dad contributed to.
 
 <figure class="memorial-figure">
-<img src="{{ "/images/mhs-article.jpeg" | relative_url }}" alt="Article on commercialisation of MHSNet" class="memorial-photo">
-
-<img src="{{ "/images/mhs-article2.jpeg" | relative_url }}" alt="Another article on commercialisation of MHSNet" class="memorial-photo">
-<figcaption>1989 - Articles on the effort to cxpand MHS internationally.</figcaption>
+<img src="{{ "/images/mhs-article.jpeg" | relative_url }}" alt="Article on the effort to expand MHS internationally." class="memorial-photo">
+<figcaption>1989 - Article on the effort to expand MHS internationally.</figcaption>
 </figure>
 
 In the late 90s, his interest shifted to networks for devices, what we now call the Internet of Things, and he began collaborating with mum on user modeling, particularly focusing on the back-end protocols. He was the driving force behind a grant that ran for 14 years, the Cooperative Research Centre on Smart Internet Technology, which supported many PhD students, and paid for a new lab, with mum and dad's offices at either end of an open plan area for their students. They developed a range of novel ways for computer systems to be a part of our environment, with new touch interfaces and interactive displays, technologies we all take for granted today.
