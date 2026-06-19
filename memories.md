@@ -37,3 +37,10 @@ permalink: /memories/
   <div class="author">— Ellen Stuart (Jonathan's wife)</div>
 </div>
 
+<div class="memory-card">
+<blockquote><p>I remember Bob being kind and patient. He was always happy to talk to me, even if I lead him down rabbit holes that had nothing to do with the subject he was teaching.</p>
+<p>I remember Bob's love of gadgets. His desk at SIT always had some interesting odd-ball devices on it (Chumbys!) and he always had one, if not multiple, fitness trackers on him, measuring every metric possible and feeding them all into a personalised model.  </p>
+<p>I remember Bob taking delight in the small things. I once showed him a prototype of KeepInTouch on an iPad and he spent 10 seconds with a grin on his face just spinning the iPad around, watching as the UI adapted to the screen orientation.</p>
+<p>My memories of Bob are a blessing.</p></blockquote>
+  <div class="author">— Steve Bian (one of Bob's students)</div>
+</div>
