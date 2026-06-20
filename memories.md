@@ -44,3 +44,15 @@ permalink: /memories/
 <p>My memories of Bob are a blessing.</p></blockquote>
   <div class="author">— Steve Bian (one of Bob's students)</div>
 </div>
+
+<div class="memory-card">
+<blockquote>A man of integrity.<br />
+A man of passion.<br />
+A man of wisdom.<br />
+A man who loved deeply and was loved in return.<br />
+Farewell, Bob.<br />
+Your kindness remains, and your memory continues.
+</blockquote>
+  <div class="author">— Josiah (a colleague)</div>
+</div>
+
