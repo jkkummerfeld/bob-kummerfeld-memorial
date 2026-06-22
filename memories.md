@@ -64,3 +64,9 @@ Your kindness remains, and your memory continues.
   <div class="author">— Tim Chen</div>
 </div>
 
+<div class="memory-card">
+<blockquote>
+I first met Bob when I moved to Sydney to join the University of Sydney. I remember him as a pleasant, thoughtful and courteous colleague. Whenever I sought or heard his views, they were considered, balanced and invariably helpful. He had a quiet warmth and generosity in the way he interacted with others, and I always valued our conversations. I extend my sincere condolences to his family and loved ones.
+</blockquote>
+  <div class="author">— Albert Zomaya (a colleague)</div>
+</div>
