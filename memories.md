@@ -56,3 +56,11 @@ Your kindness remains, and your memory continues.
   <div class="author">— Josiah (a colleague)</div>
 </div>
 
+<div class="memory-card">
+<blockquote><p>I came to Australia for the first time in 2016, joining UTS and honestly not knowing many people at all. It was around 2018 that I met Judy and Bob, and I still remember how welcoming they were. They had me join their weekly group meetings, at a time I knew few people around.</p>
+<p>I moved to Adelaide in 2020, so the time I had with Bob was not long. But in those encounters, we chatted a couple times about HCI research and about how to do research in general. Those conversations stuck with me more than he probably knew. There was something in the way he engaged with ideas and with people that made you think harder (in a good way). I hope to carry what I learned from those conversations in my own work and in the way I work with students.</p>
+<p>That feels like the right way to honour what Bob gave me.</p>
+</blockquote>
+  <div class="author">— Tim Chen</div>
+</div>
+
