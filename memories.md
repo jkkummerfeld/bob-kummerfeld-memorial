@@ -70,3 +70,10 @@ I first met Bob when I moved to Sydney to join the University of Sydney. I remem
 </blockquote>
   <div class="author">— Albert Zomaya (a colleague)</div>
 </div>
+
+<div class="memory-card">
+<blockquote>
+Bob was a very valued member of the Australian Computer Science community. He had substantial contributions both at the University of Sydney and nationally. He was a kind a caring colleague who will be very much missed. RIP.
+</blockquote>
+  <div class="author">— David Abramson (a colleague)</div>
+</div>
