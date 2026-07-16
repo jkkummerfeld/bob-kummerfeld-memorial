@@ -28,25 +28,32 @@ permalink: /memories/
 </style>
 
 <div class="memory-card">
-  <blockquote>When a family friend asked Joe and Zach what they liked best about their Saba, they said that he was funny. The friend asked for an example, and Joe said "When we would ask to watch Bluey, he would say things like 'What about Greenie?'"</blockquote>
+  <blockquote>
+When a family friend asked Joe and Zach what they liked best about their Saba, they said that he was funny. The friend asked for an example, and Joe said "When we would ask to watch Bluey, he would say things like 'What about Greenie?'"
+</blockquote>
   <div class="author">— Joe and Zach (Jonathan's kids)</div>
 </div>
 
 <div class="memory-card">
-  <blockquote>One of my favorite moments with Bob: I remarked to him once that I saw an extraordinary number of rainbows in Sydney. He replied that it was because we lived at the end of the rainbow.</blockquote>
+  <blockquote>
+One of my favorite moments with Bob: I remarked to him once that I saw an extraordinary number of rainbows in Sydney. He replied that it was because we lived at the end of the rainbow.
+</blockquote>
   <div class="author">— Ellen Stuart (Jonathan's wife)</div>
 </div>
 
 <div class="memory-card">
-<blockquote><p>I remember Bob being kind and patient. He was always happy to talk to me, even if I lead him down rabbit holes that had nothing to do with the subject he was teaching.</p>
+<blockquote>
+<p>I remember Bob being kind and patient. He was always happy to talk to me, even if I lead him down rabbit holes that had nothing to do with the subject he was teaching.</p>
 <p>I remember Bob's love of gadgets. His desk at SIT always had some interesting odd-ball devices on it (Chumbys!) and he always had one, if not multiple, fitness trackers on him, measuring every metric possible and feeding them all into a personalised model.  </p>
 <p>I remember Bob taking delight in the small things. I once showed him a prototype of KeepInTouch on an iPad and he spent 10 seconds with a grin on his face just spinning the iPad around, watching as the UI adapted to the screen orientation.</p>
-<p>My memories of Bob are a blessing.</p></blockquote>
+<p>My memories of Bob are a blessing.</p>
+</blockquote>
   <div class="author">— Steve Bian (one of Bob's students)</div>
 </div>
 
 <div class="memory-card">
-<blockquote>A man of integrity.<br />
+<blockquote>
+A man of integrity.<br />
 A man of passion.<br />
 A man of wisdom.<br />
 A man who loved deeply and was loved in return.<br />
@@ -57,7 +64,8 @@ Your kindness remains, and your memory continues.
 </div>
 
 <div class="memory-card">
-<blockquote><p>I came to Australia for the first time in 2016, joining UTS and honestly not knowing many people at all. It was around 2018 that I met Judy and Bob, and I still remember how welcoming they were. They had me join their weekly group meetings, at a time I knew few people around.</p>
+<blockquote>
+<p>I came to Australia for the first time in 2016, joining UTS and honestly not knowing many people at all. It was around 2018 that I met Judy and Bob, and I still remember how welcoming they were. They had me join their weekly group meetings, at a time I knew few people around.</p>
 <p>I moved to Adelaide in 2020, so the time I had with Bob was not long. But in those encounters, we chatted a couple times about HCI research and about how to do research in general. Those conversations stuck with me more than he probably knew. There was something in the way he engaged with ideas and with people that made you think harder (in a good way). I hope to carry what I learned from those conversations in my own work and in the way I work with students.</p>
 <p>That feels like the right way to honour what Bob gave me.</p>
 </blockquote>
@@ -77,3 +85,12 @@ Bob was a very valued member of the Australian Computer Science community. He ha
 </blockquote>
   <div class="author">— David Abramson (a colleague)</div>
 </div>
+
+<div class="memory-card">
+<blockquote>
+<p>I had the privilege of teaching Bob and Judy and we were all inhabitants of The Yellow Submarine in the bowels of the Physics School at the University of Sydney, many years ago.  </p>
+<p>Bob could seem very serious, but he had a quirky sense of fun. He was devoted to Judy, his family and his students.  His fascination with all things technical was greatly to the benefit of these students.  He made many contributions to the teaching of computing both at the University and across Australia and elsewhere.  A friend and colleague who will be much missed by many.</p>
+</blockquote>
+  <div class="author">— Jenny Edwards (a teacher and colleague)</div>
+</div>
+
