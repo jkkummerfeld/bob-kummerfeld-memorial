@@ -23,8 +23,8 @@ Mike Seymour is a researcher, educator and media and entertainment specialist wh
 Michela Ledwidge is a hands-on director and co-founder of the indie studio Mod, specialising in real-time and virtual production. Her work spans everything from Commodore 64 BASIC games to modern banking AI, and her current focus is VR-optional, story-driven games.
 
 
-## Photos
+## Photos and Video
 
-Please see this Google Photos album for the professional photos at the event: <https://photos.app.goo.gl/GbJFD5fov68GjERd9>
+Please see this Google Photos album for the video played at the event and the professional photos: <https://photos.app.goo.gl/GbJFD5fov68GjERd9>
 
 
