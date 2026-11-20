@@ -16,11 +16,11 @@ We’ll gather at the University of Sydney on Tuesday 17 November, 5:30pm to hon
 
 Panellists
 
-Aaron Quigley is Dean of the College of Systems and Society at the Australian National University. He works in human–computer interaction and has held roles at CSIRO, UNSW, the University of St Andrews, University College Dublin and the University of Sydney, where he worked with Bob as a postdoc.
+- *Aaron Quigley* is Dean of the College of Systems and Society at the Australian National University. He works in human–computer interaction and has held roles at CSIRO, UNSW, the University of St Andrews, University College Dublin and the University of Sydney, where he worked with Bob as a postdoc.
 
-Mike Seymour is a researcher, educator and media and entertainment specialist whose work connects AI and digital humans. He is a Senior Lecturer at the University of Sydney Business School and co-founder of Motus Lab, and completed his BSc, MBA and PhD at Sydney.
+- *Mike Seymour* is a researcher, educator and media and entertainment specialist whose work connects AI and digital humans. He is a Senior Lecturer at the University of Sydney Business School and co-founder of Motus Lab, and completed his BSc, MBA and PhD at Sydney.
 
-Michela Ledwidge is a hands-on director and co-founder of the indie studio Mod, specialising in real-time and virtual production. Her work spans everything from Commodore 64 BASIC games to modern banking AI, and her current focus is VR-optional, story-driven games.
+- *Michela Ledwidge* is a hands-on director and co-founder of the indie studio Mod, specialising in real-time and virtual production. Her work spans everything from Commodore 64 BASIC games to modern banking AI, and her current focus is VR-optional, story-driven games.
 
 
 ## Photos and Video
